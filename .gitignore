@@ -2,3 +2,4 @@
 **/ipynb_checkpoints/*
 workspace.code-workspace
 .vscode
+**/__pycache__
